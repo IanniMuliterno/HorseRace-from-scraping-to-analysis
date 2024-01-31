@@ -1,3 +1,8 @@
-# Webscrapping-lesson-with-BeautifulSoup
+# Horse Race - from scraping to analysis
+This project is part of a lesson posted in my blog [here](https://imuliterno.netlify.app/) . There we go trough [horse statistics website](http://www.racebase.co.nz/jockthis.htm), [jockeys and trainers statistics website](https://loveracing.nz) and extract info in order to make some analysis.
 
-This project is part of a lesson posted in my blog [here](https://imuliterno.netlify.app/) . There we go trough a [horse statistics website](http://www.racebase.co.nz/jockthis.htm) and extract the table of jockeys statiscs.
+# to-dos
+1. extract runs
+2. get combination of jockey-horse-trainer for each run
+3. feature engineering
+4. explore how well can I related the acquired data to race winning
